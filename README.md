@@ -24,8 +24,11 @@
 ### Заголовчик
 
 Блок кода:
-        Код
-        куку
+```javascript
+if (isAwesome){
+  return true
+}
+```
     
 Таблица:
 
